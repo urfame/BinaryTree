@@ -1,0 +1,3 @@
+D:\fame\Documents\study\C++ codes\BinarTree\BinarTree\x64\Debug\BinarTree.vcxproj.AssemblyReference.cache
+D:\fame\Documents\study\C++ codes\BinarTree\BinarTree\x64\Debug\BinarTree.MyForm.resources
+D:\fame\Documents\study\C++ codes\BinarTree\BinarTree\x64\Debug\BinarTree.vcxproj.GenerateResource.cache
